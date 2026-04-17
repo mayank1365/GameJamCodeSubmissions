@@ -16,4 +16,4 @@ Stack (with a dash of Backtracking)
 
 ### 🔗 Itch.io Link
 [Play the Game](https://sk555.itch.io/slidecrate)
-
+"Only play this game in FULL SCREEN"
